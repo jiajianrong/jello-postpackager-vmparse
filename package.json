@@ -1,0 +1,24 @@
+{
+  "name": "jello-postpackager-vmparse",
+  "version": "1.0.0",
+  "description": "replace #parse in vm widget",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiajianrong/jello-postpackager-vmparse.git"
+  },
+  "keywords": [
+    "jello",
+    "widget",
+    "parse"
+  ],
+  "author": "jiajianrong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiajianrong/jello-postpackager-vmparse/issues"
+  },
+  "homepage": "https://github.com/jiajianrong/jello-postpackager-vmparse#readme"
+}
